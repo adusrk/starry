@@ -13,7 +13,7 @@ const App: React.FC = () => {
       </div>
       <div className={styles.txt}>
         <h2>Welcome</h2>
-        <p>To my star-y background</p>
+        <p>To my starry background</p>
       </div>
     </div>
   );
